@@ -14,7 +14,7 @@ MongoDB
 Clone the repository
 bash
 Copy code
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/lomanchanshum/101241079_COMP3133_Assignment1.git
 #Navigate to the project directory
 bash
 Copy code
